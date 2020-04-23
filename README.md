@@ -2,7 +2,7 @@
 
 ## Challenge Overview
 
-You’ve been asked by your CEO to create an overall snapshot of the ride-sharing data. In addition to your scatter and pie charts, she would like to see a summary table of key metrics of the ride-sharing data by city type, and a multiple-line graph that shows the average fare for each week by each city type.
+The CEO tasked us to create an overall snapshot of the ride-sharing data. In addition to our scatter and pie charts, she wants to see a summary table of key metrics of the ride-sharing data by city type, and a multiple-line graph that shows the average fare for each week by each city type.
 
 The goals for this challenge are for you to:
 
@@ -20,7 +20,7 @@ The goals for this challenge are for you to:
 
 ## Challenge Summary
 
-###Summary Data Frame
+### Summary Data Frame
 The DataFrame that was created highlighted the following:
 
 1. Urban Areas experience a much higher number of rides and total fares.
@@ -28,7 +28,7 @@ The DataFrame that was created highlighted the following:
 3. There is a significant drop in rides in the Rural Areas.
 4. The total fares for both Rural and Suburban combined was approximately half of the overall Urban Fares.
 
-###Summary Chart
+### Summary Chart
 
 ![ChallengeChart](https://github.com/dougacct814/PyBer_Analysis/blob/master/Analysis/ChallengeChart.png)
 
